@@ -1,6 +1,6 @@
 # Ctp Factory
 
-[![Actions Status](https://github.com/ctpswap/ctp-swap-core/workflows/CI/badge.svg)](https://github.com/ctpswap/ctp-swap-core/actions)
+[![Actions Status](https://github.com/citypayorg/ctp-swap-core/workflows/CI/badge.svg)](https://github.com/citypayorg/ctp-swap-core/actions)
 
 In-depth documentation on CtpSwap is available at [docs.ctpswap.finance](https://docs.ctpswap.finance/).
 
